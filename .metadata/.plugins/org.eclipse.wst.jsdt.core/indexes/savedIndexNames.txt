@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+D:\WORK\CicdProject\SDP-105\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1429853184.index
-4291367711.index
-2262213176.index
-1649957815.index
-2758750048.index
